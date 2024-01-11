@@ -14,8 +14,5 @@ A beautifully crafted landing page for showcasing classic books, built with HTML
 ## Usage
 To view the landing page, simply open the HTML file in a web browser. Feel free to explore the features and design elements incorporated into the project.
 
-## Screenshots
-![Landing Page Screenshot](./screenshots/landing_page.png)
-
 ## License
 This project is licensed under the [MIT License](./LICENSE).
